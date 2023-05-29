@@ -9,4 +9,4 @@ Formatting example:
 - ".... . .-.. .-.. --- / .-- --- .-. .-.. -.. q"   turns into   "HELLO WORLD"
   - (USE OPTION 2, end with " q")
 - "HELLO WORLD ;"   turns into   ".... . .-.. .-.. --- / .-- --- .-. .-.. -.. /"
--- (USE OPTION 1, end with " ;")
+  - (USE OPTION 1, end with " ;")
