@@ -1,4 +1,6 @@
 # Morse Code Translator
+![BADGE](https://github.com/drodr211/morsecodetranslator/actions/workflows/c-cpp.yml/badge.svg)
+
 A C++ terminal program to code/decode Morse code to/from the English alphabet.
 
 Can Translate from English to Morse and vice versa.
