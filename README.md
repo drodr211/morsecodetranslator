@@ -1,5 +1,5 @@
 # Morse Code Translator
-A C++ program to code/decode Morse code to/from the English alphabet.
+A C++ terminal program to code/decode Morse code to/from the English alphabet.
 
 Can Translate from English to Morse and vice versa.
 
